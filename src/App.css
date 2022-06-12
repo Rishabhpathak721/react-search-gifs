@@ -44,7 +44,7 @@ body{
 
 .height{
 
-  height: 100vh;
+  height: 50vh;
 }
 
 .form{
@@ -92,3 +92,9 @@ body{
   box-shadow: none;
   border:none;
 }
+
+h1{
+  text-align: center;
+  font-weight: 700;
+}
+
